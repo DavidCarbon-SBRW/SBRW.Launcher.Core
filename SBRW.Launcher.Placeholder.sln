@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Placeholder", "SBRW.Launcher.Placeholder\SBRW.Launcher.Placeholder.csproj", "{E6B92145-C7AC-48DD-A7AF-BFCBF595F8F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{2022668C-CA0C-472F-862D-7EB6DA72B280}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Core.Extra", "SBRW.Launcher.Core.Extra\SBRW.Launcher.Core.Extra\SBRW.Launcher.Core.Extra.csproj", "{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Core.Proxy", "SBRW.Launcher.Core.Proxy\SBRW.Launcher.Core.Proxy\SBRW.Launcher.Core.Proxy.csproj", "{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Core.Discord", "SBRW.Launcher.Core.Discord\SBRW.Launcher.Core.Discord\SBRW.Launcher.Core.Discord.csproj", "{0239D4A9-2F3B-49BB-9D78-754B84A97FEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Core.Theme", "SBRW.Launcher.Core.Theme\SBRW.Launcher.Core.Theme\SBRW.Launcher.Core.Theme.csproj", "{0A0A2785-CF1E-49C0-AE24-FE9906676A43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SBRW.Launcher.Core.Downloader", "SBRW.Launcher.Core.Downloader\SBRW.Launcher.Core.Downloader\SBRW.Launcher.Core.Downloader.csproj", "{CF9B28BE-D897-4AFD-8031-C2236EF1171A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6B92145-C7AC-48DD-A7AF-BFCBF595F8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6B92145-C7AC-48DD-A7AF-BFCBF595F8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6B92145-C7AC-48DD-A7AF-BFCBF595F8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6B92145-C7AC-48DD-A7AF-BFCBF595F8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0239D4A9-2F3B-49BB-9D78-754B84A97FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0239D4A9-2F3B-49BB-9D78-754B84A97FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0239D4A9-2F3B-49BB-9D78-754B84A97FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0239D4A9-2F3B-49BB-9D78-754B84A97FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A0A2785-CF1E-49C0-AE24-FE9906676A43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0A2785-CF1E-49C0-AE24-FE9906676A43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0A2785-CF1E-49C0-AE24-FE9906676A43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0A2785-CF1E-49C0-AE24-FE9906676A43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9B28BE-D897-4AFD-8031-C2236EF1171A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9B28BE-D897-4AFD-8031-C2236EF1171A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9B28BE-D897-4AFD-8031-C2236EF1171A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9B28BE-D897-4AFD-8031-C2236EF1171A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DF02C122-BF7E-4C0C-8B5F-080F0B0F267A} = {2022668C-CA0C-472F-862D-7EB6DA72B280}
+		{7FC20EFA-EB3A-4F0D-9200-FD5EDA24E5EA} = {2022668C-CA0C-472F-862D-7EB6DA72B280}
+		{0239D4A9-2F3B-49BB-9D78-754B84A97FEF} = {2022668C-CA0C-472F-862D-7EB6DA72B280}
+		{0A0A2785-CF1E-49C0-AE24-FE9906676A43} = {2022668C-CA0C-472F-862D-7EB6DA72B280}
+		{CF9B28BE-D897-4AFD-8031-C2236EF1171A} = {2022668C-CA0C-472F-862D-7EB6DA72B280}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE94BEC-4F8D-4285-9D9B-68CC1554602D}
+	EndGlobalSection
+EndGlobal

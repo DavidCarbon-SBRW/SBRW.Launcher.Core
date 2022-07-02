@@ -1,0 +1,15 @@
+[submodule "SBRW.Launcher.Core.Proxy"]
+	path = SBRW.Launcher.Core.Proxy
+	url = https://github.com/DavidCarbon-SBRW/SBRW.Launcher.Core.Proxy
+[submodule "SBRW.Launcher.Core.Extra"]
+	path = SBRW.Launcher.Core.Extra
+	url = https://github.com/DavidCarbon-SBRW/SBRW.Launcher.Core.Extra
+[submodule "SBRW.Launcher.Core.Discord"]
+	path = SBRW.Launcher.Core.Discord
+	url = https://github.com/DavidCarbon-SBRW/SBRW.Launcher.Core.Discord
+[submodule "SBRW.Launcher.Core.Downloader"]
+	path = SBRW.Launcher.Core.Downloader
+	url = https://github.com/DavidCarbon-SBRW/SBRW.Launcher.Core.Downloader
+[submodule "SBRW.Launcher.Core.Theme"]
+	path = SBRW.Launcher.Core.Theme
+	url = https://github.com/DavidCarbon-SBRW/SBRW.Launcher.Core.Theme
